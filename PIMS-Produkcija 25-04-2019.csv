@@ -1,0 +1,195 @@
+﻿RN;Opis;Projekt;Odgovorni;Programer;Datum otvaranja RN;Sati do 25.01;;;Status RN;Trenutno aktivni;Rok programera;Procjena sati;IGOR (usaglaseni termin);Odgvorni u GS;Odijeli;Projekti;Task/komentari;Komentar;Marijana;
+77870;Nocna obrada zatvaranja stavaka na PM8;PIMS;Ante;Duda;23.01.19 11:36;0;15;0,25;KO;Duda;31.01.19;;01.02.19;Ante;Prodaja;Engel;NE/excel;"8.3. Nisam dobio potvrdu. Proci 13.3.
+13.3. ne mozemo provjeriti jer trenutni PM8 je za April te nemamo mogucnost provjeriti da li se zakljucavaju, tek u sledecem, mjesecu se ovo moze testirati!!";;
+77867;Dorada akc. kreiranja dok. S06 za o.st. P07 po par.;PIMS;Ante;Duda;23.01.19 10:53;0;20;0,33;KO;Duda;31.01.19;;01.02.19;Ante;Int.logistika;Engel;OK/task;"Prozor za skladistare, nisam dobio potvrdu da koristimo!
+13.3. kompletan proces proci sa Miralemom i Antom!!!!!> Zajedno prosli dokument i Miralem je shvatio svrhu ovoga dokumenta; moraju poceti u praksi ga primjenjivati stim da su svi P07 na vrijeme i postavljeni.Pored toga Ante dao prijedlog da se narudzbe (P08/P04/P05) zatvraju sa S06 jer imamo problem kada se nesto preuzme u otprmenicu ba brise onda narudzba ostaje zatvorena!!Trenutno imamo samo mogucnost da u takvim situacijama da se rucno brise veza P07 i narudzbe.";;
+77868;Dorada ispis 7050;PIMS;Ante;Duda;23.01.19 11:07;0;10;0,17;KO;Duda;31.01.19;;01.02.19;Ante;Int.logistika;Engel;NE/excel;"Ne mogu naci ispis. (Warenbegleitschein na P07);
+13.3. proci proces i Miralemu objasniti dokument: Ispis je ok, sadrszi sve podatke koje smo i trazili.Skladiste treba poceti koristiti ovaj ispis!!";;
+63144;(10) Import podataka iz ENGEL sustava;PIMS;Ante;Duda;26.05.17 9:09;79;18;79,30;KO;Duda;31.01.19;;01.02.19;Ante;Prodaja;Engel;;Gotovo;;
+63144;(20) Import podataka iz ENGEL sustava;PIMS;Ante;;15.11.18 14:09;7;25;7,42;KO;Ante;31.01.19;;01.02.19;Ante;Prodaja;Engel;;Gotovo;;
+77578;Brisanje kooperacije;PIMS;Marijana;; 15.01.2019 10:50;0;40;0,67;KO;Marijana;30.01.19;;01.02.19;Marijana;Kontroling;Pred-/postkalkulacija + PUT;;"8.3. Gotovo
+Moram provjeriti!!!";;
+77659;PIMS - report nedovršene proizvodnje ;PIMS;Marijana;;16.01.19 14:32;0;10;0,17;KO;Marijana;08.02.19;;08.02.19;Marijana;Kontroling;Pred-/postkalkulacija + PUT;;"Ispis 5017, na RN-ima za markirane LA naloge, ne predana kolicna*cjenik iz cjenik 33/83, dodati sumu na kraju tabele
+Usporedba sa saldom konta 114, privremeni oracun mora raditi , obavijesti moramo dobiti kroz sistem i na mail obavijest.";;
+77375;Razvoj virmana: HALCOM nalog za plaćanje JP;PIMS;Zvonimir;;09.01.19 8:34;0;20;0,33;KO;Zvonimir;15.01.19;;08.02.19;Zvonimir;Fin.i admin.;Placanje I knjizenje placanja iz I u GS;;"8.3. Damir nije potvrdio da je gotovo.
+IP(3.4.): ";provjeriti sa Gretom;ništa nije napravljeno
+74766;Dojava dobrih i loših komada i kontrola na upisu;PIMS;Ante;Duda;01.10.18 15:54;1;50;1,83;KO;Ante;15.02.19;4,00;15.02.19;Ante;Proizvodnja;Int./externe reklamacije;;"Gotovo
+Ante da slika prozor I pokaze dva polja za dobre I lose.
+Provjereno, radi I koristimo,Djuro potvrdio.";;
+77435;Dorada ispisa ukupnog vremena 5121 i 5122;PIMS;Ante;Duda;10.01.19 11:16;1;50;1,83;KO;Ante;18.01.19;KO;15.02.19;Ante;Tehn.priprema ;Sastavnice;;"Gotovo, ako budemo imali u primjeni primjedbe ici na novi nalog
+Nije gotovo po nama je gotovo";prije nego Ante ide u PIMS;
+72481;Naljepnice za artikle u proizvodnji ;PIMS;Zagi;Duda;11.06.18 14:33;2;20;2,33;KO;Duda;07.02.19;;22.02.19;Zagi;Logistika;Pracenje toka robe u int.logistici;;"8.3. napravljen je ispis 5209 naljepnica za ormar A4, da li su ostale oznake na drugim nalozima.
+4.4.(IP): Miralem da provjeri ovaj ispis. Ima mail od Ivana sa opisom. Ispis je na RN-zima .";;22.02.19
+75320;Akcija za import stand. Oper. na označene artik.;PIMS;Ante;Duda;22.10.18 16:31;1;0;1,00;KO;Ante;22.02.19;3,00;22.02.19;Ante;Tehn.priprema;Unos tehnologije;;"Anes nije potvrdio.
+13.3. sa Anesom proci i provjeriti status!Testriali smo jedan import i radi, stim sto se ovaj import radi na listi artikala ; obrade "" Izbranim artiklima dodaj standardnu operaciju"" i za odabrane GP se u masku upisuje broj prethodne operacije (npr 0 ako zelimo je postaviti kao 1 . operaciju).Istotako testiran import izmjene vremena na tehnologiji, takodje radi bez problema!!!Bitno da se sve u minutama unosi, ukoliko se dodaje+ vrijeme koje se dodaje ili ako se oduzima onda u - minute";;
+72480;Sortiranje artikala;PIMS;Zagi;;11.06.18 14:30;6;15;6,25;KO;Zagi;01.03.19;;01.03.19;Zagi;Logistika;Pracenje toka robe u int.logistici;;"Ivan da posalje kratak opis sta je konkretno napravljeno.
+4.4.(IP): IP/MZT moramo provjeriti i potvrditi 
+Potrebno je odraditi pripremu i organizaciju skladišta za selektivno zaprimanje materijala prema definiranim adresama artikala.
+Plan rada:
+- Definiranje i otvaranje lokacija u skladištu
+- Definiranje polja za upis adresa artikala
+- Definiranje adresa artikala
+1. Lokacije u skladištu:
+- Analiza lokacija na sastanku 18.09.
+- PIMS dostavlja lokacije u excell tablici
+- Priprema dostavljene tablice
+- Testiranje importa lokacija na testnoj bazi, import radi ispravno.
+- Import na produkciji
+- Import je odrađen, ukupno je otvoreno 1224 lokacija na skladištu 56.
+2. Adrese artikala:
+- Prilikom skype analize, dogovoreno je da se lokacija sa osnovnih podataka artikla ne smije koristiti.
+- Iskoristit će se dodatni podatak artikla.
+- Dogovor sa Igorom, dostaviti će se popis artikala koji imaju definiran dodatni podatak 70 kako bi se dobila dozvola da li se navedeni dodatni podatak može iskoristiti
+- Tablica je dostavljena, dodatni podatak se može iskoristiti.
+- Brisanje dodatnog podatka sa artikala na kojima to nije potrebno kroz sql administrator.
+- Izrada namjenskog importa adrese kao dodatni podatak artikla 70.
+- Testiranje importa na lokalnoj bazi, import radi ispravno.
+3. Import adresa artikala na produkciji
+- Import adresa artikala kroz namjensku akciju za import.
+- Import je odrađen uspješno, povratna poruka akcije:
+Redova na ulazu: 1223
+Redova sa šifrom i dodatnim podatkom: 1223
+Prebačenih zapisa: 1223
+4. Dodatno:
+- Izrada namjenskih opcijskih kolona zbog snalaženja skladištara
+- Izrada kolone koja prikazuje adresu artikla na pregledu svih artikala.
+- Izrada opcijske kolone koja prikazuje da li artikl ima upisan barkod. ";;01.03.19
+73537;Slanje na mail;PIMS;Marijana;;02.08.18 12:28;0;50;0,83;KO;Ante;06.02.19;;01.03.19;Marijana;Fin.i admin.;Mail iz GS;;"Baza salje naserver ali nas server dalje ne salje.  Vidjeti sa Amerom da se javi Anti.
+8.3. dobijem mail ali ne mogu poslati iz GS";;
+72549;Proces prodaje;PIMS;Marijana;;13.06.18 18:19;2;0;2,00;LA;Marijana;;;15.03.19;Marijana;Prodaja;Planiranje ;OK/ u tasku;Na osnovu (D dokumenta;;05.04.19
+75191;Ispis za sortiranje artikala;PIMS;Zagi;Duda;17.10.18 10:41;5;0;5,00;LA;Duda;12.03.19;;07.05.19;Zagi;Logistika;Pracenje toka robe u int.logistici;;4.4.(IP): Lista za uskladistenje;;08.02.19
+75194;Izrada ispisa za izdavanje potreba u proizvodnju;PIMS;Zagi;Duda;17.10.18 10:55;5;0;5,00;LA;Duda;12.03.19;;09.04.19;Zagi;Logistika;Pracenje toka robe u int.logistici;;4.4.(IP): Lista za izskladistenje / komisioniranje;;01.02.19
+75822;EUR-1 za MPR;PIMS;Marijana;;13.11.18 11:58;1;15;1,25;LA;Marijana;08.02.19;;15.03.19;Marijana;Prodaja;Eur-1 ;OK/u tasku;"Komentari su u pdf.-u EUR1 obrazca, koristimo ispis 5032 na obje baze, nakon formiranog izvjestaja pokrecemo obradu ""prikaz svih privitaka sa ulaznih racunna nakon ispisa 5032"" 
+Duda mora izmjeniti izracun rada na PEO-u i na MPR-u vrstu troska na 06 `* protocno vrijeme+sve sto je napisano u pdf-u.
+Izracun na kraju mora biti relativno na prodajnu vrijednost i to samo za materijal bez porijekla.
+13.3. u provom koraku moraju izvjestaji biti ispravni bez priloga 15.3., - priloge rjesiti do 29.3.
+29.3.(IP):";;
+77677;Provjera rada ispisa 5003;PIMS;Joe;Duda;17.01.19 8:28;0;50;0,83;KO;Joe;25.01.19;;15.03.19;Joe;Nabava;Proces u nabavi;;"krivi prijevod
+8.3. Admir je potvrdio da su ispisi za narudzbe OK.";;
+77613;Import kontrolnih procedura iz excell;PIMS;Marijana;;15.01.19 17:29;0;20;0,33;LA;Marijana;28.02.19;;15.03.19;Marijana;Kontrola kvaliteta;Kontrola u proizvodnji;OK/u tasku;"8.3. Zlatan je poslao mail.  Kod sledece posijete konacno dati upute kako da radimo.
+29.3.(IP):";;
+79226;Dodatni barkod;PIMS;Zagi;Duda;"	06.03.2019 13:16:24";1;30;1,50;KO;Zagi;;;07.05.19;Zagi;Logistika;Pracenje toka robe u int.logistici;;4.4.(IP): kod posijete Ivan ce prezentirati kako unosimo vise barkodova za jedan artikal;;
+79228;Dorada naljepnice za regale ;PIMS;Zagi;Duda;06.03.2019 13:23:39;2;10;2,17;LA;Zagi;;;07.05.19;Zagi;Logistika;Pracenje toka robe u int.logistici;;4.4.(IP): 8 eitketa na jedan A4;;
+75197;Sortiranje na ispisima 6011 i 5207;PIMS;Zagi;;17.10.18 11:09;0;10;0,17;LA;Joe;19.03.19;;07.05.19;Zagi;Logistika;Pracenje toka robe u int.logistici;OK/u tasku;4.4.(IP): nece biti kod posijet4e gotovo;;
+77672;Poskalkulacija - greška cijene rada;PIMS;Marijana;;16.01.19 16:18;3;30;3,50;LA;Joe;31.01.19;;22.03.19;Marijana;Kontroling;Pred-/postkalkulacija + PUT;NE/excel;"VB vezati uz skladiste ne zu UC:
+- nemam RN za sklopove i rad ode na materijal
+- izmjene tehnologije na rN i artiklu
+- na PEO-u koristiti vr.troska 06 i protocno vrijeme.  IP napraviti ponovo postklak. I analizu.  Na 1.mjesecu napraviti pred i post.kalk. po novom i analiz razlika
+13.3.IP/MN: - u narednih 14 dana bi izmjenili postkalkulaciju tako da se dojavljeno ili norma vrijeme * sa troskom sata radnika a dojavljeno vrijeme/broj prijalvjenih razlicitih uposlenika ili protocno vrijeme * trosak sata stroja, - ovo ce biti konacna postkalkulacija na oba poduzeca, - na oba poduzeca ce biti dvije akcije jedna sa dojavljenim vremenom i jedna sa predkalkulatornim vremenima
+29.3.(IP):";;
+78314;Dokument ulaza SXX;PIMS;Zagi;Duda;14.02.19 14:30;1;;1,00;LA;Zagi;28.02.19;;07.05.19;Zagi;Logistika;Pracenje toka robe u int.logistici;;;;
+79236;Ispis za pripremu kutija;PIMS;Zagi;Duda;06.03.2019 14:57:02;0;20;0,33;LA;Zagi;;;07.05.19;Zagi;Logistika;Pracenje toka robe u int.logistici;;4.4.(IP) A5 ispis koji ide na kutiju;;
+79473;Predkalkulacia po dobalvljacu I primatelju;;;;;;;;;;;;22.03.19;Marijana;Kontroling;Pred-/postkalkulacija + PUT;NE/u excelu;"13.3.IP/MN - napraviti obradu koja ce za odabrani cjenik/primatelja/1.dobavljaca/najmladju cijenu kopiratu u odabrani cjenik pri cemu ce pretovriti cijene iz EUR (1,95583)u KM I dati mogucnost da se unese koeficinet za ZTU.
+29.3.(IP):
+1. Kalkulacija proizvodnje cijene sa kalkulatornim ZTU
+	1. FCD (za primateja od dobavljaca) * kalkulatorni ZTU
+	2. Punimo cjenik nabavnih cijena materijala za primatelja.
+	3. Kalkulacija 36 sa vrednovanjem materijala sa odabranim cjenikom materijala za primatelja.
+	4. Iz 36 u 37 kopija
+2. Kalkulacija prodajne cijene I to po grupama prihoda
+	1. Materijal zavisno od skladista x marza ili ugovorena cijena
+	2. Rad x marza ili satnica 
+	3. Pausal, sa klasifikacije za odredjene grupe proizvoda
+3. Postkalkulacija kao potvrda predkalkulacije I nakon toga konacna cijena.
+Prihode suociti sa troskovima za materijal/ormare/ozicenje I to po naruciocu.
+R:
+1. Uzmi trosak iz cjenika 33 I pomnozi sa postotkom 
+2. Sve sto treba biti zasebno oprihodovano mora imati razlicit UC kucista/elektro materijal/ili rad
+	1. NPEO01 prihodi/rashodi po osnovu el.materijala skl.56,57,..
+	2. NPEO02 prihodi/rashodi po osnovu kucista I lim.dijelova skl.90
+		a. !!!!nabavka ce morati gledati oba UC, ici na sve pa sortirati sta im treba ili jedan po jedan.  GS radi na tome da naprave promjenu da se moze uzeti NPEO tako da sistem uzme sve sto ima NPEO na pocetku.
+	3. PPEO prihodi/rashodi ostaju razbijeni kroz klasifikaciju.
+3. Cijena pausala za transport sa klasifikacije prebaciti u cjenik obradom.
+4. Sopstveni materijal iz klasifikacije ne moramo vise raditi preko klasifikacije nego kao u tacci 1 I 2
+5. U namjenski staviti da je ispis fakture za tog partnera.
+IP, iz predkalkulacije uzeti excel I napraviti kalkulaciju.";;
+76355;Ispis s N08 Najava narudžbe;PIMS;Ante;Duda;29.11.18 15:42;0;40;0,67;KO;Duda;01.02.19;1,00;29.03.19;Ante;Nabava;Engel;NE/excel;"Izvjestaj 7040, izvjestaj nije kako treba I treba ga izmjeniti.
+13.3. zaglavlje neispravno; na ispr. Primjeru dati korekcije!!! 
+26.3.(IP): poslane su sve informacije, kada ocekujemo zavrsetak. (79611)";;
+77864;Dorada ispis 7023 - Narudžbenica PIMS;PIMS;Ante;Duda;23.01.19 10:45;0;20;0,33;KO;Ante;31.01.19;;29.03.19;Ante;Nabava;Engel;NE/excel;"Ispis 7023, zaglavlje nije ispravno treba provjeriti.
+13.3. sa Admirom usaglasiti zaglavlje narudzbe prema dob i dnijti odluku da se ukine 7023 i da se postavi na 5003 za domace dobavljace.
+Admir ce rucno na ispisu oznaciti sta da se izbaci; Ispis 7023 se koristi samo za narudzbe lim dijelova (jer je sadrzan projekat Liefercharge itd)dok ispis 5003 za sve ostale.Takodje dati prijedlog korekcija na ispisu N08 (Forecast)
+26.3.(IP): poslane sve informacije na GS, kad ocekujemo zavrsetak?(79611)";;
+71460;Proces povezivanja GoSoft - CAD sustava;PIMS;Ante;Kiki;01.05.18 13:45;26;35;26,58;LA;Kiki;15.02.19;Trebamo sve sate zbrojiti ovo je cijeli projekt;29.03.19;Ante;Tehn.priprema;Sastavnice;OK/task;"1. dodavanje privitaka
+2. novi artikli
+3. Sven mora kod prijave dati prozor u koji ce se unositi sifra I user za GS.
+4. Kod odjave da li sistem odmah odjavi korisnika ili ima neki time out?
+26.03(IP): Ante ce poslati na mail potvrdu kad dogovori sa Svenom
+";vidjeti na kraju;
+75670;Kontrola na dok. primki prema dod. Podac. Art.;PIMS;Ante;Duda;07.11.18 14:11;1;5;1,08;LA;Ante;22.02.19;2,00;29.03.19;Ante;Logistika;Pracenje toka robe u int.logistici;OK/u excelu;"Nemam potvrdu da s01 uvijek predlozi skladiste sa dodatnih podataka
+13.3. info proslijedjena na Antu da se ide na obradu (S01 /SM1) tj trazi se podatak na dodatnom podatku artikla ukoliko nema onda se preuzima sa osnovnih podataka. Ante ce napraviti obradu da se za artikle koji idu na skl 56 (el materijal) se u dodatne podatke zakuca 56-ca.";;
+76356;Reklamacijski proces ;PIMS;Ante;;29.11.18 15:45;0;35;0,58;LA;Ante;22.02.19;5,00;29.03.19;Ante;Logistika;Int./externe reklamacije;DA/excel;"Proces izdiskutovali I to je OK.  Jos nismo testirali!
+13.3. ponovo sa Admirom/Miralemom i Antom proci proces . Proci kroz upustvo po kojem se trenutno radi na MPR-u ; da li Ante ima dr prijedlog??
+Zajedno prosli cijeli proces i RND je sasvim jasan dok proces ROT (za PEO) se moze primjenjivati ako nam se rekl roba fizicki i vrati; ostaje i dalje otvoreno pitanje u kojem djelu i na koji nacin se mogu knjiziti troskovi reklamacije???Da li da se KT poziva na odgovarajuci projekat ?ZA MPR nismo mogli detaljno proci proces ROT-a !
+26.03.(IP): Nabava mora gledati i RNA dokumente u skladisnim dokumentima.  Isti postupak je i sa ROT dokumentom gdje prodaja mora u svom procesu uvesti da gleda u skladisnim dokumentima ROT dokumente.  
+Oba dokumenta moraju biti predmet sastanaka na 1.nivou.
+Nastaje doradni RN, koji moramo rucno zatvoriti ako ne mozemo popraviti i tada u proizvodnji se po istom projektu javlja novi RN za kolciinu koja je reklamirana.
+Ostali su jos ispisi i postavka gore navedeng procesa.";;
+75280;Prijava prisutnosti;PIMS;Zvonimir;Duda;20.10.18 8:51;3;21;3,35;LA;Duda;29.03.19;;30.06.19;Zvonimir;Fin.i admin.;Dojava vremena rada i prisutnosti;;;;19.04.19
+76642;Import izvoda Halcom;PIMS;Zvonimir;;10.12.18 8:34;0;31;0,52;LA;Zvonimir;08.02.19;8,00;29.03.19;Zvonimir;Fin.i admin.;Placanje iz GS;;IP(3.4.): 4.4. sutr anapraviti test;;
+77529;Paketno plaćanje- HALCOM;PIMS;Zvonimir;Duda;14.01.19 11:30;0;20;0,33;LA;Duda;07.02.19;4,00;29.03.19;Zvonimir;Fin.i admin.;Placanje iz GS;;IP(3.4.):Cekamo odgovor Halcoma;;4
+77683;PIMS- konsolidirani izvještaj;PIMS;Zvonimir;;17.01.19 9:21;2;1;2,02;LA;Zvonimir;15.02.19;;29.03.19;Zvonimir;Fin.i admin.;RDG iz GS;;IP(3.4.): jedna je opcija da se odreknemo automatskog povezivanja a da nam se napravi obrada koja ce markirane naloge objediniti.  Do 5.4. donjeti odluku.;;
+78316;Selektivno printanje radne dokumentacije (Print q);PIMS;Zagi;Duda;05.02.2019 10:32:33;0;15;0,25;LA;Zagi;;;07.05.19;Zagi;Logistika;Pracenje toka robe u int.logistici;;;;
+75323;Kasnjenje Potreba;PIMS;Marijana;;22.10.18 22:39;0;20;0,33;LA;Marijana;01.04.19;;01.04.19;Ante;Nabava;Izvjestaj za tjedne sastanke prvog nivoa,…. ;OK/ u tasku;8.3. Izvjestaj 5020 na planu prodaje je dobar izvjestaj I imamo par malih korekcija.  Identican treba biti napravljen samo sa strane nabavke, a to je upravo sto smo pokusali napraviti sa ovom obradom.  Nakon toga ovu obradu I ne trebamo.;;
+77622;Ispis 6011 - dokumentacija;PIMS;Marijana;;16.01.19 8:19;0;10;0,17;LA;Marijana;01.04.19;;01.04.19;Ante;Proizvodnja;Upravljanje proizv.;OK/ u tasku;29.3.(IP):;;29.03.19
+74349;Import struktura - dorada;PIMS;Ante;Duda;13.09.18 13:24;1;41;1,68;LA;Ante;15.02.19;3,00;05.04.19;Ante;Tehn.priprema;Sastavnice;OK/task;"1. rjeseno je da trazi po svim partnerima
+2. trazi preko tipa. Plana
+3. prepoznaje samo slova I brojeve.. Ima mail od Ante 
+Sledeci tjedan gotovo (28.2.)
+13.3. , Jasmina; problem da se kod importa preuzima i drugi UC i tipplana koji nije u excelu definiran, za nove artikle da prenese naziv i podatke iz excela: PROVJERIT da se prilikom importa pretrazuju samo aktivni artikli (Ante)";;25.ožu
+75157;Ispis plana projekta iz plana prodaje;PIMS;Ante;Duda;16.10.18 11:17;1;10;1,17;KO;Ante;15.02.19;5,00;05.04.19;Ante;Prodaja;Izvjestaj za tjedne sastanke prvog nivoa,…. ;OK/task;"Ispis 5020 funckionise, trazena je dorada I to da pored identa materijala se doda I sifra proizvodjaca + da se moguci odabir UC za materijal (prozor prije otvaranja ispisa) dodati sifru narucioca GP .(prodaja)
+U okviru ovog naloga bi trazili jos jedan ispis u istom formatu samo sa stanovista materijala sa kolonama proizvodjac/UC/narudzba/ u jednom polju nabrojani RN po kojima taj materijal kasni/kolicina koja ukupno kasni/broj dana kasnjenja najstarijeg i najmladjeg RN.(5021 za Nabavu)
+Dogovorena forma za ispis 5021 ; pored toga ce u proizvodnji za grupne potrebe dodati se kolona sa dobavljacem koji ce nabavu sluziti za detaljnu analizu kasnjenja potreba za odredjenu sedmicu.";;
+77063;Zaštita - postavljanje prava za korisnike;PIMS;Filip;;27.12.18 12:48;0;30;0,50;LA;Filip;01.03.19;;31.05.19;Filip;Fin.i admin.;GS/CAD;;Radi se o pravima korisnika za pojedine obrade, ispise ili module.  Mi treba da posaljemo pregled.;čeka se potvrda od PIMS-a;15.03.19
+77991;RDG - PEO / MPR / DLA - prikaz ukupnih vrijednosti prošle godina, plan, aktualan rezultat;PIMS;Filip;;15.01.19 14:09;4;;4,00;LA;Filip;15.02.19;;05.04.19;Filip;Fin.i admin.;RDG iz GS;;"26.3.(IP):
+- RDG das e puni kroz nocnu obradu, dati nalog.
+- kod ispisa koristi 2011, I onda ici u excel, prije toga otvoriti do najnizeg nivoa
+- na jednom mjestu upravljati sa nivoima
+- Import plana ide po periodima iz setova, mozda unjeti za citavu godinu pa si proizvoljno djeliti po potrebnom periodu";;
+77874;Automatsko slanje maila na dobavljače;PIMS;Ante;Duda;23.01.19 12:07;0;40;0,67;LA;Ante;01.03.19;4,00;12.04.19;Ante;Nabava;Upit za potvrda termina dopreme od dobavljaca;OK/excel;"Ima od Ante mail I moramo odgovoriti.
+26.3.(IP): odgovoreno, prokomentirati I definirati termin zavrsetka.";;08.03.19
+77871;Proces i postavljenje Zahtjeva za konstukciju;PIMS;Ante;;23.01.19 11:47;0;20;0,33;LA;Ante;01.03.19;5,00;19.04.19;Ante;Tehn.priprema/Prodaja;Procesi u tehn.pripremi;OK/excel;"Sa Marijanom vidjeti vezu dokumementa predprodaje sa ovim dokumentom.
+26.3.(IP): iz dokumenta 8D, koji treba da prati prodaju, bi dobili informacije za ZZK dokument u kojem planiramo I organiziramo rad tehnicke sluzbe.  Ante treba napraviti prvi primjer koji bi izdiskutovali sa tehnickom sluzbom.  BITNO da vidimo od gdje bi sve ovaj dokument nastajao!!!
+IP u Excelu 8D definirati polja za dokument za pracenje plana prodaje.  Iz ovog dokumenta ce nastajati nalog za tehnicku pripremu koji ce se kao zaseban dokument pojavljuvati u pregleda (+dokumenti iz EDI-a).";;
+77674;Grubi plan za PIMS;PIMS;Marijana;;16.01.19 16:37;1;50;1,83;LA;Zvonimir;30/04/2019;;19.04.19;Marijana;Proizvodnja;;;Da li nam ovo treba, sta smo na kraju rekli?;;
+74031;Prekid rada - noćna obrada;PIMS;Marijana;;31.08.18 11:59;0;10;0,17;LA;Marijana;26.04.19;;26.04.19;Marijana;povezano sa evidencijom prisutnosti;;;;;
+;;;;;;;;;;;;;19.04.19;Ante;Prodaja;Engel;DA/excel;"U GS imamo pohranjene importe sa servera.  Ovaj format ne mozemo koristiti jer nemaju formu u kojoj bi mogli pretrazivati.  Treba nam ili ispis koji ce ovu datoteku prevesti u tabelu sa kolonama ili da se bazi odmah u toj formi pohranjuje.
+‚26.04.(IP): ispis za FOR i za narudzbe. (79235)";;
+75321;Ispis KPI tablice za Metalprofit;PIMS;Ante;Duda;22.10.18 16:53;2;20;2,33;LA;Ante;22.02.19;6,00;26.04.19;Ante;Proizvodnja;Uprvljanje proizvodnjom;OK/u excelu;;;
+64865;Dorada akcije za import lista žica;PIMS;Ante;Duda;25.08.17 9:45;1;51;1,85;LA;Ante;05.04.19;N/A;26.04.19;Ante;Tehn.priprema;Sastavnice;NE/excel;;;22.03.19
+77879;Ispis korištenosti sati i dana bolovanja po mjes.;PIMS;Zvonimir;Duda;23.01.19 13:37;0;30;0,50;LA;Duda;26.04.19;;30.06.19;Zvonimir;HR, Fin.i administ.;HR;;HR ce biti od aprila poseban zahtijev sa puno vise trazenih informacija i projekata;;26.04.19
+63775;Import za mašinu - Excel Export;PIMS;Ante;;26.06.17 16:32;2;0;2,00;LA;Ante;12.04.19;N/A;26.04.19;Ante;Tehn.priprema;Sastavnica;NE/excel;;;12.04.19
+;;;;;;;;;;;;;26.04.19;Ante;Logistika;Int./externe reklamacije;DA/excel;"13.3. Interne reklamacije: - kod dojave ne ispravnog komada sistem ce praviti povratnicu na skladiste ne ispravne robe (novo skladiste, crveno-bijelo polje, povratnica je za broj losih komada* citava sastavnica). - Kontrola kvaliteta treba definirati da li roba die na otpis ili na doradu. - sa tog skladista se roba otpisuje (standardan proces otpisa robe) ili daje nalog za doradu sa novom tehnologijom i sastavnicom (zavisno sta je osteceno i u kojoj fazi, zadatak kontrole i tehnologije, nalog mora imati vezu zu originalni projekat). (79527)
+26.3.(IP): Ante ce poslati svoj zapis o ovom projektu da se komentira. ";;
+76643;Halcom INO platni nalozi;PIMS;Zvonimir;Duda;10.12.18 8:46;0;25;0,42;LA;Duda;30.06.19;8,00;31.05.19;Zvonimir;Fin.i admin.;Placanje iz GS;;;;jedan dan
+77572;JP- HALCOM;PIMS;Zvonimir;;15.01.19 9:38;0;40;0,67;LA;Zvonimir;30.06.19;;30.06.19;Zvonimir;Fin.i admin.;Placanje iz GS;;"8.3. Damir nije potvrdio da je gotovo.
+IP(3.4.): ";;
+74413;Dorada ispisa 5206 - Dodati barkod i radni nalog;PIMS;Ante;Duda;18.09.18 10:20;1;0;1,00;KO;Duda;22.02.19;2,50; ;Ante;Logistika;Pracenje toka robe u int.logistici;;Gotovo;;15.02.19
+79218;Brisanje neaktivnih artikala na MPR bazi ;PIMS;Ante;Duda;06.03.2019 10:51:54;0;10;0,17;LA;Ante;;;??;Ante;Logistika;Pracenje toka robe u int.logistici;;9.3. Ovo smo rucno zavrsili.  Sta nam je ovdje ostalo na ovom nalogu?;;
+71012;8D Report;PIMS;Marijana;;11.04.18 9:17;4;50;4,83;LA;Marijana;14.03.2019;;14.03.2019;Marijana;Kontrola kvalit.;Pracenje procesa u QS;OK/u tasku;29.3.(IP):;;
+73389;Preseljenje baze DLA na server PIMS-a ;PIMS;Kiki;Kiki;25.07.18 10:45;0;30;0,50;LA;Kiki;28.02.19;;;Kiki;;;;;do kraja mjeseca;
+77383;Mjesečni RN;PIMS;Marijana;;09.01.19 10:09;0;30;0,50;LA;Marijana;;;;Marijana;ne znam sta je;;;;;
+77094;Skeniranje s Barkodom u otpremnici ;PIMS;Ante;Kiki;31.12.18 11:35;1;0;1,00;KO;Ante;28.01.19;KO;;Ante;Logistika;Pracenje toka robe u int.logistici;;To je nemoguce;u četvratk u 15 sati;
+77885;Potpora 01/19;PIMS;Zagi;;23.01.19 14:18;4;30;4,50;KO;Zagi;01.02.19;;;Zagi;;;;;;
+73972;Izrada pokontrole za start stop prijavu rada;PIMS;Ante;;29.08.18 12:18;3;20;3,33;KO;Ante;;KO;;Ante;;;;Ante:Zakljuceno, nakon testiranja uzima se broj komada u obzir što se mislilo da nije tako;;
+74627;Promjena skladišta i lokacije za označene stavke;PIMS;Ante;Duda;25.09.18 15:32;0;50;0,83;KO;Ante;;KO;;Ante;Logistika;;;rjeseno drugim nalogi;obrada nije potrebana - nema naplate;
+75680;Korekcija ispisa 7023;PIMS;Ante;Duda;07.11.18 16:29;0;50;0,83;KO;Ante;08.02.19;KO;;Ante;Odustal;Odustali;;ne fakturira se;;
+77876;Korekcija ispisa 7012 i 7020;PIMS;Joe;Duda;23.01.19 12:38;0;15;0,25;KO;Duda;31.01.19;;07.05.19;Joe;Nabava;Operativno;;Ante:Zahtjev od Miralema da se sa tih dokumeanta ukloni zapis SCA narudžba jer se koristi za sve kupce;;
+78315;Upis barcoda artiklima;PIMS;Zagi;Duda;14.02.19 14:30;3;;3,00;KO;Zagi;15.02.19;;;Zagi;Logistika;Pracenje toka robe u int.logistici;OK/u tasku;8.3. Gotovo, na drugom nalogu drugo mjesto za barkod I izmjena prozora za unos.;;
+77211;01/19 PEO/MPR (sastanci i odlazak PIMS);PIMS;Ante;;04.01.19 12:32;21;25;21,42;KO;Ante;;KO;;Ante;;;;Ante:Mjesečni nalog;;
+;;;;;;;;;;;;;26.04.19;Ante;Prodaja;Engel;DA/excel;"26.3.(IP):
+- Izmjeniti import FOR-a da ne dobijemo duple kolicine.
+-Prijedlog: da se na nivou mjeseca posmatraju kolicine po artiklu i samo ako je kolicina narednog importa veca sa novim FOR-om dodati kolicinu.  Ovo primjeniti samo na kolicine koje su vec otisle na
+U datum dopreme stavljati uvijek 1. u mjesecu.";;
+;;;;;;;;;;;;;29.03.19;Marijana;Kontroling;Pred-/postkalkulacija + PUT;NE/excel;Na pregledu I analizama, otpremnice uz analizu RUC.a dodati I postkalkulatornu vrijednost za RN.;;
+;;;;;;;;;;;;;29.03.19;Marijana;;;NE/excel;Ovu tabelu treba prosiriti za kolonu za prvi upis na nalogu. Vidjeti mogucnost da preko WEB-a gledamo otvorene naloge.;;
+77875;Obrada zatvaranja projekata;PIMS;Ante;;23.01.19 12:33;0;30;0,50;KO;Ante;01.03.19;2,00;03.05.19;Ante;Prodaja;Procesi u prodaji;NE/excel;"Nemam potvrdu da radi.
+Projekti se zatvaraju ali ne samo oni koji imaju racun i zadovoljavaju sve uvjete nego svi projekti; Ante mora provjeriti gdje je greska (PEO i MPR bazi)";;
+76350;Automatizacija prijenosa SM5 na S01;PIMS;Ante;Duda;29.11.18 14:27;1;6;1,10;LA;Duda;01.03.19;S dudom provjeriti ali ne više od 4 sata;10.05.19;Ante;Logistika;Engel;NE/excel;;;
+79925;Reklamacijski proces- postavke i upute;PIMS;Ante;;29.03.19 9:51;0;30;0,50;LA;;;;08.05.19;Zvonimir;Fin.i admin.;Kontroling;DA/excel;Da li mozemo preglede iz CF-a (tab ROK) postaviti I na nabavci odnosno prodaji na pregledima I analizi.  Problem je kroz CF dolaziti do izvjestaje za osobe koje ne trebaju ulaziti u CF. (79142);;
+;;;;;;;;;;;;;;00.01.00;;;;;;
+;;;;;;;;;;;;;;00.01.00;;;;;;
+;;;;;;;;;;;;;;;;;;Kolona B, zelena, GI u radu;;
+;;;;;;;;;;;;;;;;;;Kolona B, plava, gotovo sa strane GI;;
+;;;;;;;;;;;;;;;;;;Kolona J, plava + KO, GI gotovo od PEO-a provjereno I prihvaceno;;
+;;;;;;;;;;;;;;;;;;Kolona N, plava, gotovo sa strane PEO-a;;
